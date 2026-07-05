@@ -64,15 +64,6 @@
 
 ---
 
-## 📊 Thống Kê & Thành Tích Hoạt Động (Pro Dashboard)
-
-<!-- GITHUB SUMMARY CARDS -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graperu&theme=radical" alt="graperu's Profile Summary" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=graperu&theme=radical" alt="graperu's Stats Card" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=graperu&theme=radical" alt="graperu's Repos per Language" width="48%" />
@@ -83,46 +74,6 @@
 <!-- CHUỖI NGÀY CODE LIÊN TỤC -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=graperu&theme=radical&border_radius=10&fire=FF007F" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<!-- BIỂU ĐỒ SÓNG ĐỘNG (Activity Graph) -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=graperu&bg_color=141321&color=FF007F&line=00F0FF&point=FFE600&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="95%" />
-</div>
-
----
-
-<!-- RAINBOW LINE BOTTOM -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
-
-<br>
-
-<!-- ========================================================= -->
-<!-- PHẦN PLOT TWIST: CÂU JOKE SIÊU TO KHỔNG LỒ -->
-<!-- ========================================================= -->
-
-<div align="center">
-  <a href="https://github.com/graperu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1500&color=FF0055&center=true&vCenter=true&width=850&height=70&lines=%F0%9F%A4%A1+%C3%9A+%C3%92a!...+NH%E1%BB%AFNG+TH%E1%BB%A8+TR%C3%8AT+TO%C3%80N+L%C3%80+T%C3%94I+B%E1%BB%8AA+RA+%C4%90%C3%93!+%F0%9F%A4%A1;%F0%9F%A4%A3+B%E1%BB%8Ba+cho+ng%E1%BA%A7u+th%C3%B4i+ch%E1%BB%A9+t%C3%B4i+%C4%91%C3%A3+bi%E1%BA%BFt+g%C3%AC+%C4%91%C3%A2u!+%F0%9F%92%80;%F0%9F%A4%AB+Nh%C6%B0ng+m%C3%A0+nh%C3%ACn+profile+uy+t%C3%ADn+v%C3%A3i+ch%C6%B0%E1%BB%9Fng!+%F0%9F%98%8E" alt="The Big Joke" />
-  </a>
-</div>
-
-### <p align="center"> 🤡 ⚠️ **DISCLAIMER / CẢNH BÁO CỰC MẠNH:** ⚠️ 🤡 </p>
-# <p align="center"> **"TẤT CẢ NHỮNG CÔNG NGHỆ SIÊU NHÂN Ở TRÊN... TOÀN LÀ LỜI XẠO CHÓ CỦA TÔI!!!"** 💀🤣 </p>
-
-> <p align="center"> <i>"Bịa cho ngầu, cho giống Senior Full-Stack Architect để lòe thiên hạ thôi, chứ thực ra tôi vẫn đang lên Google search <b>'How to center a div'</b> và <b>'How to exit Vim'</b> mỗi ngày!"</i> 🤫✨ </p>
-
-<br>
-
-<div align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/graperu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
 <p align="center">
