@@ -54,20 +54,25 @@
 
 ---
 
-## 🏆 Thành Tích & Thống Kê Hoạt Động (GitHub Trophy & Stats)
+## 🏆 Thành Tích & Thống Kê Hoạt Động (GitHub Dashboard)
 
-<!-- 1. CÚP THÀNH TÍCH (Trophies - Hiệu ứng huy chương game thủ cực màu mè) -->
+<!-- 1. GITHUB SUMMARY CARDS (Thẻ thống kê màu mè, siêu ổn định, chống lỗi tốt) -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=graperu&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=false&border=true" alt="graperu's Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graperu&theme=radical" alt="graperu's Profile Summary" />
 </div>
 
 <br>
 
-<!-- 2. HAI BẢNG THỐNG KÊ CORE (Đã sửa lỗi, dùng theme Radical cực cháy) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graperu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="graperu's GitHub Stats" height="195"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=graperu&theme=radical" alt="graperu's Stats Card" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=graperu&theme=radical" alt="graperu's Repos per Language" width="48%" />
+</div>
+
+<br>
+
+<!-- 2. GITHUB README STATS CORE (Đã tối ưu tham số chống lỗi 403/500) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=graperu&show_icons=true&theme=radical&border_radius=10" alt="graperu's GitHub Stats" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graperu&layout=compact&theme=radical&border_radius=10&langs_count=6" alt="Top Languages" height="195"/>
 </div>
 
