@@ -57,8 +57,6 @@
 
 ---
 
-## 🐍 Rắn Săn Mồi Nuốt Chửng Commit (Contribution Snake)
-
 <!-- HIỆU ỨNG RẮN SĂN MỒI CHẠY LỔM NGỔM SIÊU CUỐN -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="95%" />
