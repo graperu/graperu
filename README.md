@@ -17,7 +17,7 @@
 - 👯 **Sẵn sàng hợp tác:** Các dự án mã nguồn mở về **Full-stack Web (React/Next.js)**, lập trình hệ thống **C/C++**, hoặc nghiên cứu giải thuật phức tạp.
 - 💡 **Sở thích:** Tự build và tùy biến hệ thống Linux, tối ưu hóa hiệu năng cơ sở dữ liệu và Docker hóa mọi thứ!
 - 😄 **Danh xưng:** He/Him
-***(THẬT RA LÀ TÔI BỊA RA ĐÓ)***
+
 ---
 
 ## 🛠️ Kỹ Năng & Công Nghệ (Tech Stack)
@@ -54,26 +54,21 @@
 
 ---
 
-## 🏆 Thành Tích & Thống Kê Hoạt Động (GitHub Dashboard)
+## 🏆 Thống Kê & Thành Tích Hoạt Động (Pro Dashboard)
 
-<!-- 1. GITHUB SUMMARY CARDS (Thẻ thống kê màu mè, siêu ổn định, chống lỗi tốt) -->
+<!-- 1. CÚP THÀNH TÍCH (Trophies - Hiệu ứng huy chương cực chiến) -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graperu&theme=radical" alt="graperu's Profile Summary" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=graperu&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=false&border=true" alt="graperu's Trophies" />
+  </a>
 </div>
 
 <br>
 
+<!-- 2. BẢNG THỐNG KÊ SIÊU ỔN ĐỊNH (Đã thay thế hoàn toàn công cụ bị lỗi server cũ) -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=graperu&theme=radical" alt="graperu's Stats Card" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=graperu&theme=radical" alt="graperu's Repos per Language" width="48%" />
-</div>
-
-<br>
-
-<!-- 2. GITHUB README STATS CORE (Đã tối ưu tham số chống lỗi 403/500) -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=graperu&show_icons=true&theme=radical&border_radius=10" alt="graperu's GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=graperu&layout=compact&theme=radical&border_radius=10&langs_count=6" alt="Top Languages" height="195"/>
 </div>
 
 <br>
@@ -85,10 +80,11 @@
 
 <br>
 
-<!-- 4. BIỂU ĐỒ SÓNG ĐỘNG (Animated Activity Graph - Hiệu ứng đường sóng chuyển động) -->
+<!-- 4. BIỂU ĐỒ SÓNG ĐỘNG (Animated Activity Graph - Hiệu ứng sóng điện tim cực ngầu) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=graperu&bg_color=141321&color=FF007F&line=00F0FF&point=FFE600&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="95%" />
 </div>
+
 ---
 
 ## 📫 Kết Nối Với Tôi (Get in Touch)
