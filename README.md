@@ -17,7 +17,7 @@
 - 👯 **Sẵn sàng hợp tác:** Các dự án mã nguồn mở về **Full-stack Web (React/Next.js)**, lập trình hệ thống **C/C++**, hoặc nghiên cứu giải thuật phức tạp.
 - 💡 **Sở thích:** Tự build và tùy biến hệ thống Linux, tối ưu hóa hiệu năng cơ sở dữ liệu và Docker hóa mọi thứ!
 - 😄 **Danh xưng:** He/Him
-
+***(THẬT RA LÀ TÔI BỊA RA ĐÓ)***
 ---
 
 ## 🛠️ Kỹ Năng & Công Nghệ (Tech Stack)
