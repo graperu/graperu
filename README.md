@@ -54,18 +54,15 @@
 
 ---
 
-## 🏆 Thống Kê & Thành Tích Hoạt Động (Pro Dashboard)
+## 📊 Thống Kê Hoạt Động (Pro Dashboard)
 
-<!-- 1. CÚP THÀNH TÍCH (Trophies - Hiệu ứng huy chương cực chiến) -->
+<!-- 1. GITHUB SUMMARY CARDS (Thẻ thống kê hệ hệ mới, siêu mượt, chống lỗi 403 tốt nhất hiện nay) -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=graperu&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=false&border=true" alt="graperu's Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=graperu&theme=radical" alt="graperu's Profile Summary" />
 </div>
 
 <br>
 
-<!-- 2. BẢNG THỐNG KÊ SIÊU ỔN ĐỊNH (Đã thay thế hoàn toàn công cụ bị lỗi server cũ) -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=graperu&theme=radical" alt="graperu's Stats Card" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=graperu&theme=radical" alt="graperu's Repos per Language" width="48%" />
@@ -73,14 +70,14 @@
 
 <br>
 
-<!-- 3. CHUỖI NGÀY CODE LIÊN TỤC (Streak Stats - Tông màu Neon đồng bộ) -->
+<!-- 2. CHUỖI NGÀY CODE LIÊN TỤC (Streak Stats - Server Heroku siêu ổn định) -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=graperu&theme=radical&border_radius=10&fire=FF007F" alt="GitHub Streak" />
 </div>
 
 <br>
 
-<!-- 4. BIỂU ĐỒ SÓNG ĐỘNG (Animated Activity Graph - Hiệu ứng sóng điện tim cực ngầu) -->
+<!-- 3. BIỂU ĐỒ SÓNG ĐỘNG (Activity Graph - Hiệu ứng điện tim Cyberpunk) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=graperu&bg_color=141321&color=FF007F&line=00F0FF&point=FFE600&area=true&hide_border=false&border_radius=10" alt="Activity Graph" width="95%" />
 </div>
