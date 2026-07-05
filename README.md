@@ -110,7 +110,7 @@
 </div>
 
 ### <p align="center"> 🤡 ⚠️ **DISCLAIMER / CẢNH BÁO CỰC MẠNH:** ⚠️ 🤡 </p>
-# <p align="center"> **"TẤT CẢ NHỮNG CÔNG NGHỆ SIÊU NHÂN Ở TRÊN... TOÀN LÀ TÔI BỊA RA ĐÓ!!!"** 💀🤣 </p>
+# <p align="center"> **"TẤT CẢ NHỮNG CÔNG NGHỆ SIÊU NHÂN Ở TRÊN... TOÀN LÀ LỜI XẠO CHÓ CỦA TÔI!!!"** 💀🤣 </p>
 
 > <p align="center"> <i>"Bịa cho ngầu, cho giống Senior Full-Stack Architect để lòe thiên hạ thôi, chứ thực ra tôi vẫn đang lên Google search <b>'How to center a div'</b> và <b>'How to exit Vim'</b> mỗi ngày!"</i> 🤫✨ </p>
 
