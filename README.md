@@ -70,12 +70,6 @@
 </div>
 
 <br>
-
-<!-- CHUỖI NGÀY CODE LIÊN TỤC -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=graperu&theme=radical&border_radius=10&fire=FF007F" alt="GitHub Streak" />
-</div>
-
 <p align="center">
   <br>
   ⭐️ <i>Architected with 1% Skill and 99% Imagination</i> • <b>graperu</b> 🤡
