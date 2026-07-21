@@ -36,9 +36,9 @@
 </p>
 ---
 
-## 🛠️ Kỹ Năng & Công Nghệ Lõi (Enterprise Tech Stack)
+## 🛠️ Enterprise Tech Stack
 
-### 💻 Ngôn Ngữ Lập Trình (Core Languages)
+### 💻 Core Languages
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,cs,ts,js,py,html,css&theme=dark" alt="Languages" />
