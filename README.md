@@ -13,38 +13,27 @@
 <h1 align="center">Hi there 👋, I'm Dinh</h1>
 <img alt="GIF" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400px" height="270" />
 
-- 🏫 **About me:** I am a student majoring in Computer Science / Information Technology.
+- 🏫 **About me:** I am a student majoring in Information Technology.
 
-- 📖 **My interests include:** Object-Oriented Programming (OOP), Computer Vision, and Local AI (LLMs).
+- 📖 **My interests include:** Cybersecurity, Software Development, and Web Applications.
 
-- 👨🏻‍💻 **Now, I am focusing on:** Software Development with **C++ & C#**, optimizing graph algorithms, and exploring Linux environments.
+- 👨🏻‍💻 **Now, I am focusing on:** Web Software Development and Security.
 
 - 📫 **You can contact me via:**
-
 <p align="center">
-  <a href="https://www.facebook.com/your-facebook/" alt="Facebook">
+  <a href="https://www.facebook.com/graperuu" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank">
   </a> 
-  <a href="https://github.com/your-github" alt="Github">
+  <a href="https://github.com/graperu" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png">
   </a>
-  <a href="mailto:your-email@gmail.com" alt="Email">
+  <a href="mailto:dinhphan0511@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png">
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin/" alt="Linkedin">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png">
   </a>
 </p>
-
-## Technologies & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Cập nhật icon công nghệ: C++, C#, Git, Linux, Arch, Ubuntu, VS Code -->
-    <img src="https://skillicons.dev/icons?i=cpp,cs,git,github,linux,arch,ubuntu,vscode&theme=light" alt="Tech Stack" />
-  </a>
-</div>
-
 ---
 
 ## 🛠️ Kỹ Năng & Công Nghệ Lõi (Enterprise Tech Stack)
