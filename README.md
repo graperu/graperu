@@ -10,16 +10,40 @@
 
 <br>
 
-<!-- ABOUT ME -->
-## ⚡ Về Tôi (About Me)
+<h1 align="center">Hi there 👋, I'm Dinh</h1>
+<img alt="GIF" align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="400px" height="270" />
 
-> *"Architecting scalable backend systems, deploying cloud microservices, and training deep neural networks."* 🚀
+- 🏫 **About me:** I am a student majoring in Computer Science / Information Technology.
 
-- 🔭 **Đang dẫn dắt & phát triển:** Các hệ thống Backend phân tán với **Java Spring Boot / .NET Core**, xử lý hàng triệu request mỗi giây.
-- 🌱 **Đang nghiên cứu sâu về:** Kiến trúc Cloud Native, Thị giác máy tính (Computer Vision) và tối ưu hóa mô hình AI cục bộ (Local LLMs / Offline Models).
-- 👯 **Sẵn sàng hợp tác:** Các siêu dự án mã nguồn mở về **Full-stack Web (React/Next.js)**, lập trình hệ thống lõi **C/C++**, hoặc nghiên cứu giải thuật AI phức tạp.
-- 💡 **Sở thích:** Tự build kernel Linux, viết script tự động hóa mọi thứ và tối ưu hiệu năng cơ sở dữ liệu!
-- 😄 **Danh xưng:** He/Him
+- 📖 **My interests include:** Object-Oriented Programming (OOP), Computer Vision, and Local AI (LLMs).
+
+- 👨🏻‍💻 **Now, I am focusing on:** Software Development with **C++ & C#**, optimizing graph algorithms, and exploring Linux environments.
+
+- 📫 **You can contact me via:**
+
+<p align="center">
+  <a href="https://www.facebook.com/your-facebook/" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank">
+  </a> 
+  <a href="https://github.com/your-github" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png">
+  </a>
+  <a href="mailto:your-email@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" alt="Linkedin">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png">
+  </a>
+</p>
+
+## Technologies & Tools
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <!-- Cập nhật icon công nghệ: C++, C#, Git, Linux, Arch, Ubuntu, VS Code -->
+    <img src="https://skillicons.dev/icons?i=cpp,cs,git,github,linux,arch,ubuntu,vscode&theme=light" alt="Tech Stack" />
+  </a>
+</div>
 
 ---
 
