@@ -36,7 +36,7 @@
 </p>
 ---
 
-## 🛠️ Enterprise Tech Stack
+<!-- ## 🛠️ Enterprise Tech Stack
 
 ### 💻 Core Languages
 <div align="center">
@@ -68,7 +68,7 @@
 
 <br>
 
----
+--- -->
 
 <!-- HIỆU ỨNG RẮN SĂN MỒI CHẠY LỔM NGỔM SIÊU CUỐN -->
 <div align="center">
