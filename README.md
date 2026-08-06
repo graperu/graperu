@@ -67,15 +67,17 @@ alt="Developer coding animation"
 
 <br clear="both" />
 
-🐱 Vibe check
+## 🐱 Vibe check
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/graperu/graperu/main/cat-animation.svg"
+    src="./cat-animation.svg"
     alt="MadB0i coding cat"
-    width="700"
+    width="800"
   />
 </div>
+
+---
 
 <!-- GITHUB CONTRIBUTION SNAKE -->
 
