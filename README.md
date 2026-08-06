@@ -71,7 +71,7 @@ alt="Developer coding animation"
 
 <div align="center">
   <img
-    src="./cat-animation.svg"
+    src="https://raw.githubusercontent.com/graperu/graperu/main/cat-animation.svg"
     alt="MadB0i coding cat"
     width="800"
   />
@@ -87,23 +87,6 @@ alt="Developer coding animation"
     alt="GitHub contribution snake animation"
     width="95%"
   />
-</div>
-
-<div align="center">
-  <a href="https://github.com/graperu">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=graperu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
-      alt="graperu GitHub statistics"
-      width="49%"
-    />
-  </a>
-  <a href="https://github.com/graperu">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=graperu&layout=compact&theme=radical&hide_border=true&langs_count=8"
-      alt="graperu most used languages"
-      width="49%"
-    />
-  </a>
 </div>
 
 <br />
