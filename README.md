@@ -74,73 +74,21 @@ alt="Developer coding animation"
 <br />
 
 ---
+---
 
 ## 🐱 Vibe check
 
 <div align="center">
   <img
-    src="cat-animation.svg"
+    src="./cat-animation.svg"
     alt="MadB0i coding cat"
-    width="100%"
+    width="700"
   />
 </div>
 
 ---
 
-<!--
-## 🛠️ Enterprise Tech Stack
-
-### 💻 Core Languages
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=java,cpp,cs,ts,js,py,html,css&theme=dark"
-      alt="Programming languages"
-    />
-  </a>
-</div>
-
-### 🌐 Frontend & Backend Frameworks
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,dotnet,express,redux,tailwind&theme=dark"
-      alt="Frontend and backend frameworks"
-    />
-  </a>
-</div>
-
-### 🗄️ Database, Cloud & DevOps
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,kubernetes,linux,aws,git,nginx&theme=dark"
-      alt="Database, cloud, and DevOps technologies"
-    />
-  </a>
-</div>
-
-### 🤖 AI, Computer Vision & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,vscode,postman,bash,github,gitlab&theme=dark"
-      alt="AI and development tools"
-    />
-  </a>
-</div>
-
-<br />
-
----
--->
-
 <!-- GITHUB CONTRIBUTION SNAKE -->
-
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -152,22 +100,32 @@ alt="Developer coding animation"
 ---
 
 <div align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=graperu&theme=radical"
-    alt="graperu GitHub statistics"
-    width="48%"
-  />
+  <a href="https://github.com/graperu">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=graperu&show_icons=true&theme=radical&hide_border=true&count_private=true"
+      alt="graperu GitHub statistics"
+    />
+  </a>
 
-<img
- src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=graperu&theme=radical"
- alt="graperu repositories by language"
- width="48%"
-/>
-
+  <a href="https://github.com/graperu">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=graperu&layout=compact&theme=radical&hide_border=true"
+      alt="graperu most used languages"
+    />
+  </a>
 </div>
 
 <br />
 
+<p align="center">
+  ⭐️
+  <i>Architected with 1% Skill and 99% Imagination</i>
+  •
+  <b>graperu</b>
+  🤡
+</p>
 <p align="center">
   ⭐️
   <i>Architected with 1% Skill and 99% Imagination</i>
