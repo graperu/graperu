@@ -1,10 +1,12 @@
 <!-- RAINBOW LINE TOP -->
 
-<img
-src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
-width="100%"
-alt="Rainbow divider"
-/>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+    width="100%"
+    alt="Rainbow divider"
+  />
+</p>
 
 <!-- HEADER ANIMATION -->
 
@@ -24,20 +26,19 @@ alt="Rainbow divider"
 <img
 align="right"
 src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif"
-width="400"
-height="270"
+width="380"
 alt="Developer coding animation"
 />
 
-* 🏫 **About me:** I am an Information Technology student.
+🏫 About me: I am an Information Technology student.
 
-* 📖 **My interests:** Cybersecurity, Software Development, and Web Applications.
+📖 My interests: Cybersecurity, Software Development, and Web Applications.
 
-* 👨🏻‍💻 **Currently focusing on:** Web Development, System Design, and Application Security.
+👨🏻‍💻 Currently focusing on: Web Development, System Design, and Application Security.
 
-* 🚀 **My goal:** Building practical, secure, and user-friendly software products.
+🚀 My goal: Building practical, secure, and user-friendly software products.
 
-* 📫 **Connect with me:**
+📫 Connect with me:
 
 <br />
 
@@ -48,47 +49,36 @@ alt="Developer coding animation"
       alt="Facebook"
     />
   </a>
-
+  &nbsp;
   <a href="https://github.com/graperu">
     <img
       src="https://img.icons8.com/fluent/48/000000/github.png"
       alt="GitHub"
     />
   </a>
-
+  &nbsp;
   <a href="mailto:dinhphan0511@gmail.com">
     <img
       src="https://img.icons8.com/fluent/48/000000/mailing.png"
       alt="Email"
     />
   </a>
-
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img
-      src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-      alt="LinkedIn"
-    />
-  </a>
 </div>
 
-<br />
+<br clear="both" />
 
----
----
-
-## 🐱 Vibe check
+🐱 Vibe check
 
 <div align="center">
   <img
-    src="./cat-animation.svg"
+    src="https://raw.githubusercontent.com/graperu/graperu/main/cat-animation.svg"
     alt="MadB0i coding cat"
     width="700"
   />
 </div>
 
----
-
 <!-- GITHUB CONTRIBUTION SNAKE -->
+
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -97,22 +87,19 @@ alt="Developer coding animation"
   />
 </div>
 
----
-
 <div align="center">
   <a href="https://github.com/graperu">
     <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=graperu&show_icons=true&theme=radical&hide_border=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=graperu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true"
       alt="graperu GitHub statistics"
+      width="49%"
     />
   </a>
-
   <a href="https://github.com/graperu">
     <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=graperu&layout=compact&theme=radical&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=graperu&layout=compact&theme=radical&hide_border=true&langs_count=8"
       alt="graperu most used languages"
+      width="49%"
     />
   </a>
 </div>
@@ -120,16 +107,6 @@ alt="Developer coding animation"
 <br />
 
 <p align="center">
-  ⭐️
-  <i>Architected with 1% Skill and 99% Imagination</i>
-  •
-  <b>graperu</b>
-  🤡
-</p>
-<p align="center">
-  ⭐️
-  <i>Architected with 1% Skill and 99% Imagination</i>
-  •
-  <b>graperu</b>
-  🤡
+  ⭐️ <i>Architected with 1% Skill and 99% Imagination</i>
+  • <b>graperu</b> 🤡
 </p>
