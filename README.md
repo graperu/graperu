@@ -79,7 +79,7 @@ alt="Developer coding animation"
 
 ---
 
-<!-- GITHUB CONTRIBUTION SNAKE -->
+<!-- GITHUB CONTRIBUTION SNAKE 
 
 <div align="center">
   <img
@@ -89,7 +89,7 @@ alt="Developer coding animation"
   />
 </div>
 
-<br />
+<br /> -->
 
 <p align="center">
   ⭐️ <i>Architected with 1% Skill and 99% Imagination</i>
