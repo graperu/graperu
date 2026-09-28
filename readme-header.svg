@@ -1,0 +1,55 @@
+<svg width="100%" height="250" viewBox="0 0 1440 250" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#88c9ea;stop-opacity:0.65" />
+      <stop offset="100%" style="stop-color:#4895d6;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+
+  <g opacity="0.4">
+    <circle cx="10%" cy="80%" r="25" fill="#ffffff">
+      <animate attributeName="cy" values="250;-50" dur="15s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="15s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="20%" cy="80%" r="15" fill="#ffffff">
+      <animate attributeName="cy" values="250;-50" dur="12s" begin="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="12s" begin="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="50%" cy="80%" r="35" fill="#ffffff">
+      <animate attributeName="cy" values="250;-50" dur="20s" begin="5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="20s" begin="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="80%" cy="80%" r="20" fill="#ffffff">
+      <animate attributeName="cy" values="250;-50" dur="10s" begin="1s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="10s" begin="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="95%" cy="80%" r="10" fill="#ffffff">
+      <animate attributeName="cy" values="250;-50" dur="18s" begin="3s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;0" dur="18s" begin="3s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <path fill="#88c9ea" fill-opacity="0.25" d="M0,100 C320,180 420,0 740,80 C1060,160 1180,60 1440,100 V0 H0 V100 Z">
+    <animate attributeName="d"
+             values="M0,100 C320,180 420,0 740,80 C1060,160 1180,60 1440,100 V0 H0 V100 Z;
+                     M0,100 C320,80 420,160 740,120 C1060,80 1180,180 1440,100 V0 H0 V100 Z;
+                     M0,100 C320,180 420,0 740,80 C1060,160 1180,60 1440,100 V0 H0 V100 Z"
+             dur="20s" repeatCount="indefinite"/>
+  </path>
+
+  <path fill="#5ba6d6" fill-opacity="0.4" d="M0,130 C300,60 600,200 900,100 C1200,0 1400,120 1440,130 V0 H0 V130 Z">
+    <animate attributeName="d"
+             values="M0,130 C300,60 600,200 900,100 C1200,0 1400,120 1440,130 V0 H0 V130 Z;
+                     M0,130 C300,180 600,100 900,160 C1200,80 1400,160 1440,130 V0 H0 V130 Z;
+                     M0,130 C300,60 600,200 900,100 C1200,0 1400,120 1440,130 V0 H0 V130 Z"
+             dur="15s" repeatCount="indefinite"/>
+  </path>
+
+  <path fill="url(#grad1)" d="M0,160 C360,240 720,80 1080,160 C1260,200 1380,140 1440,160 V0 H0 V160 Z">
+    <animate attributeName="d"
+             values="M0,160 C360,240 720,80 1080,160 C1260,200 1380,140 1440,160 V0 H0 V160 Z;
+                     M0,160 C360,120 720,200 1080,140 C1260,100 1380,200 1440,160 V0 H0 V160 Z;
+                     M0,160 C360,240 720,80 1080,160 C1260,200 1380,140 1440,160 V0 H0 V160 Z"
+             dur="10s" repeatCount="indefinite"/>
+  </path>
+</svg>
