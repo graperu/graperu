@@ -10,14 +10,82 @@
 
 <!-- HEADER ANIMATION -->
 
-<div align="center">
-  <a href="https://github.com/graperu">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=55&lines=Hi+there%2C+I'm+graperu!+%F0%9F%91%8B;Full-Stack+Developer+%26+System+Architect+%F0%9F%9A%80;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%E2%80%A2+Cloud;Welcome+to+my+coding+space!"
-      alt="Typing introduction"
-    />
-  </a>
-</div>
+<svg width="800" height="50" viewBox="0 0 800 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dividerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#A2D9F5;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#A2D9F5;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#5FA8D3;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#A2D9F5;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#A2D9F5;stop-opacity:0"/>
+    </linearGradient>
+    
+    <!-- Animated Gradient -->
+    <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0">
+        <animate attributeName="offset" values="-0.2;1.2" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="10%" style="stop-color:#ffffff;stop-opacity:0.8">
+        <animate attributeName="offset" values="-0.1;1.3" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="20%" style="stop-color:#ffffff;stop-opacity:0">
+        <animate attributeName="offset" values="0;1.4" dur="3s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  
+  <!-- Main Wave Line -->
+  <path d="M0,25 Q100,15 200,25 T400,25 T600,25 T800,25" stroke="url(#dividerGrad)" stroke-width="3" fill="none">
+    <animate attributeName="d" 
+             values="M0,25 Q100,15 200,25 T400,25 T600,25 T800,25;
+                     M0,25 Q100,35 200,25 T400,25 T600,25 T800,25;
+                     M0,25 Q100,15 200,25 T400,25 T600,25 T800,25" 
+             dur="4s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Shimmer Overlay on Wave -->
+  <path d="M0,25 Q100,15 200,25 T400,25 T600,25 T800,25" stroke="url(#flowGrad)" stroke-width="4" fill="none" opacity="0.6">
+    <animate attributeName="d" 
+             values="M0,25 Q100,15 200,25 T400,25 T600,25 T800,25;
+                     M0,25 Q100,35 200,25 T400,25 T600,25 T800,25;
+                     M0,25 Q100,15 200,25 T400,25 T600,25 T800,25" 
+             dur="4s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- Decorative Bubbles -->
+  <g opacity="0.6">
+    <circle cx="100" cy="25" r="4" fill="#5FA8D3">
+      <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="25" r="3" fill="#89CFF0">
+      <animate attributeName="r" values="3;5;3" dur="2.5s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="25" r="5" fill="#5FA8D3">
+      <animate attributeName="r" values="5;7;5" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="25" r="3" fill="#89CFF0">
+      <animate attributeName="r" values="3;5;3" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="25" r="4" fill="#5FA8D3">
+      <animate attributeName="r" values="4;6;4" dur="2s" begin="0.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" begin="0.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Center Bubble Decoration -->
+  <g transform="translate(390, 18)">
+    <circle cx="10" cy="10" r="10" fill="#5FA8D3" opacity="0.8">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="10;12;10" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="6" cy="6" r="3" fill="white" opacity="0.6"/>
+  </g>
+</svg>
+
 
 <br />
 
