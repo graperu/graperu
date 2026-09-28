@@ -1,9 +1,8 @@
-<!-- RAINBOW LINE TOP -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+    src="https://raw.githubusercontent.com/graperu/graperu/main/wave-divider.svg"
     width="100%"
-    alt="Rainbow divider"
+    alt="Wave divider"
   />
 </p>
 
@@ -88,10 +87,10 @@
   • <b>graperu</b> 🤡
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
-    width="100%"
-    alt="Rainbow divider"
-  />
-</p>
+<br />
+
+<img
+  src="https://raw.githubusercontent.com/graperu/graperu/main/readme-footer.svg"
+  width="100%"
+  alt="Thanks for visiting"
+/>
