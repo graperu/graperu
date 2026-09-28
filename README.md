@@ -1,10 +1,8 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/graperu/graperu/main/wave-divider.svg"
-    width="100%"
-    alt="Wave divider"
-  />
-</p>
+<img
+  src="https://raw.githubusercontent.com/graperu/graperu/main/readme-header.svg"
+  width="100%"
+  alt="Animated ocean header"
+/>
 
 <h1 align="center">Hi there 👋, I'm Dinh</h1>
 
@@ -58,7 +56,13 @@
 
 <br clear="both" />
 
----
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/graperu/graperu/main/wave-divider.svg"
+    width="80%"
+    alt="Animated divider"
+  />
+</p>
 
 ## 🐱 Vibe check
 
